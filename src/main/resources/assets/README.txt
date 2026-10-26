@@ -1,0 +1,1 @@
+El arte es original y se genera en com.mirax.ui.Art usando JavaFX Canvas. No se requieren imagenes externas.

@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+save.json
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Partidas guardadas
+saves/
+
+# Archivos privados
+.env
+.env.*
+*.key
+*.pem
+
+# Temporales
+*.log
